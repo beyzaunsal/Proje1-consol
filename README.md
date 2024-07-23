@@ -13,4 +13,6 @@ Bilgi almak istediğiniz müzik türünü seçiniz.
 <h5>3.Not Ortalaması</h5>
 <img src="not ort.png" width="300" height="100" alt="Örnek Resim"/>
 Hesaplamak istediğiniz dersten aldığınız notları giriniz.
-
+<h6>4.Dairenin Çap ve Alan Hesabı</h6>
+<img src="Dairenin çevresi ve alanı.png" width="300" height="100" alt="Örnek Resim"/>
+Hesaplamak istediğiniz dairenin çapını girerek çevresini ve alanını hesaplayınız.
