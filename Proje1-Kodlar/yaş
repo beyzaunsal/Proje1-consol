@@ -1,0 +1,3 @@
+yıl=int(input("Merhaba doğum yılınız nedir?"))
+print(f"{2024-yıl} yaşındasınız.")
+input()
