@@ -16,6 +16,7 @@ Hesaplamak istediğiniz dersten aldığınız notları giriniz.
 <h6>4.Dairenin Çap ve Alan Hesabı</h6>
 <img src="Dairenin çevresi ve alanı.png" width="350" height="100" alt="Örnek Resim"/>
 Hesaplamak istediğiniz dairenin çapını girerek çevresini ve alanını hesaplayınız.
-<h5>5.Bilmece Oyunu</h5>
+<h7>5.Bilmece Oyunu</h7>
 <img src="bilmeceler .png" width="650" height="250" alt="Örnek Resim"/>
-Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler ve yeni soruyu karşınıza getirir.
+Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler, yeni soruyu karşınıza getirir.
+<h8>5.Bilmece Oyunu</h8>
