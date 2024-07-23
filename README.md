@@ -19,7 +19,6 @@ Hesaplamak istediğiniz dairenin çapını girerek çevresini ve alanını hesap
 <h7>5.Bilmece Oyunu</h7>
 <img src="bilmeceler .png" width="650" height="250" alt="Örnek Resim"/>
 Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler, yeni soruyu karşınıza getirir.<p><h9>6.Cismin Düşme Süresi</h9</p>
-<h8>6.Cismin Düşme Süresi</h8>
 <img src="cisim.png" width="650" height="100" alt="Örnek Resim"/>
 Cismin düşme süresine göre veya bırakıldığı yüksekliğe göre düşme hızını hesaplar.
 <h9>8.Yaş Hesabı</h9>
