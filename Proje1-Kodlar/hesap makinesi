@@ -8,3 +8,6 @@ print("║  Seçimini yap:   ║")
 print("╚"+"══════════════════"+"╝")
 soru=int(input("Seçimi yap:")) 
 input()
+
+
+
