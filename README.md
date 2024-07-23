@@ -22,11 +22,11 @@ Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler
 <p><img src="cisim.png" width="650" height="100" alt="Örnek Resim"/></p>
 Cismin düşme süresine göre veya bırakıldığı yüksekliğe göre düşme hızını hesaplar.
 <p><h9>7.Boy Kilo Endeksi</h9</p>
-<p><img src="cisim.png" width="650" height="100" alt="Örnek Resim"/></p>
+<p><img src="boykilo.png" width="650" height="100" alt="Örnek Resim"/></p>
 Boy ve kilonuza göre endeksinizi hesaplar.
 <p><h10>8.Yaş Hesabı</h10></p>
 <p><img src="yaşhesabı.png" width="300" height="50" alt="Örnek Resim"/></p>
 Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<p><h9>9.Faiz Getirisi Hesaplama</h9</p>
-<p><img src="boykilo.png" width="350" height="100" alt="Örnek Resim"/></p>
+<p><img src="faiz.png" width="350" height="100" alt="Örnek Resim"/></p>
 Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hesaplar.
 <p><h11>10.Ritmik Sayma</h11</p>
