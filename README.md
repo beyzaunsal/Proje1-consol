@@ -11,6 +11,6 @@ Hesap makinesinden yapmak istediğiniz işlemi seçiniz.
 <img src="müzik türleri.png" width="250" height="250" alt="Örnek Resim"/>
 Bilgi almak istediğiniz müzik türünü seçiniz.
 <h5>3.Not Ortalaması</h5>
-<img src="not ort.png" width="300" height="250" alt="Örnek Resim"/>
+<img src="not ort.png" width="300" height="100" alt="Örnek Resim"/>
 Hesaplamak istediğiniz dersten aldığınız notları giriniz.
 
