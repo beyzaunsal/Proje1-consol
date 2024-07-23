@@ -24,5 +24,5 @@ Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler
 Cismin düşme süresine göre veya bırakıldığı yüksekliğe göre düşme hızını hesaplar.
 <h9>8.Yaş Hesabı</h9>
 <img src="yaşhesabı.png" width="300" height="50" alt="Örnek Resim"/>
-Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.
+Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<p><h9>9.Faiz Getirisi Hesaplama</h9</p>
 <h9>9.Faiz Getirisi Hesaplama</h9>
