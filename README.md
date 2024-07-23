@@ -1,8 +1,6 @@
 # proje1-consol
 Konsol Uygulaması
-## alt başlık
-Beyza ÜNsal
-### alt başlık
+## Beyza ÜNSAL
 <img src="image.png" alt="Örnek Resim"/>
 
 
