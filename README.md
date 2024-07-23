@@ -22,3 +22,6 @@ Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler
 <h8>6.Cismin Düşme Süresi</h8>
 <img src="cisim.png" width="650" height="100" alt="Örnek Resim"/>
 Cismin düşme süresine göre veya bırakıldığı yüksekliğe göre düşme hızını hesaplar.
+<h9>8.Yaş Hesabı</h9>
+<img src="yaş hesabı.png" width="350" height="100" alt="Örnek Resim"/>
+Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.
