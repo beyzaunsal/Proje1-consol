@@ -24,5 +24,5 @@ Cismin düşme süresine göre veya bırakıldığı yüksekliğe göre düşme 
 <p><h9>8.Yaş Hesabı</h9></p>
 <p><img src="yaşhesabı.png" width="300" height="50" alt="Örnek Resim"/></p>
 Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<p><h9>9.Faiz Getirisi Hesaplama</h9</p>
-<p><img src="faiz.png" width="300" height="50" alt="Örnek Resim"/></p>
+<p><img src="faiz.png" width="300" height="100" alt="Örnek Resim"/></p>
 Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hesaplar.
