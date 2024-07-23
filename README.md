@@ -8,6 +8,7 @@ Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.
 <img src="HESAP MAKİNESİ.png" width="250" height="250" alt="Örnek Resim"/>
 Hesap makinesinden yapmak istediğiniz işlemi seçiniz.
 <h4>2.Müzik Türleri Hakkında Bilgi</h4>
+<img src="müzik türleri.png" width="250" height="250" alt="Örnek Resim"/>
 Bilgi almak istediğiniz hesap türünü seçiniz.
 
 
