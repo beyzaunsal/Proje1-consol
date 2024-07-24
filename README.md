@@ -1,6 +1,6 @@
 # Konsol Uygulaması
 ## Beyza ÜNSAL
-<img src="logo.png" width="250" height="100" alt="Örnek Resim"/>
+<img src="Resimler/logo.png" width="250" height="100" alt="Örnek Resim"/>
 <hr /><h3>1.Proje</h3>
 <img src="Resimler/anamenü.png" width="300" height="300" alt="Örnek Resim"/>
 Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.
