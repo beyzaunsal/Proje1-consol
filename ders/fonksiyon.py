@@ -14,7 +14,15 @@ merhabade()
 def topla():
     print(3+2)
 topla()
-"""
+
 def topla(a+b):
     print(a+b)
 topla(60,5)    
+
+def selamla(isim="İsim girilmemiş"):
+    if isim != "İsim girilmemiş": return f"Merhaba {isim}"
+    else return
+    return "Merhaba" + isim
+
+print(selamla)    "
+"""
