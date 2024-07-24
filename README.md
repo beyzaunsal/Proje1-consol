@@ -13,7 +13,7 @@ Bilgi almak istediğiniz müzik türünü seçerek istenen tür hakkında bilgi 
 <hr /><b><p><h5>3.Not Ortalaması</h5></p></b>
 <img src="not ort.png" width="300" height="100" alt="Örnek Resim"/>
 Hesaplamak istediğiniz dersten aldığınız birinci, ikinci ve performans notlarını girerek not ortalamanızı hesaplayabilirsiniz.
-<hr /><b><h6>4.Dairenin Çap ve Alan Hesabı</h6></b>
+<hr /><b><h6>4.Dairenin Çevresi ve Alan Hesabı</h6></b>
 <img src="Dairenin çevresi ve alanı.png" width="350" height="100" alt="Örnek Resim"/>
 Hesaplamak istediğiniz dairenin çapını girerek çevresini ve alanını hesaplayabilirsiniz.
 <hr /><b><p><h7>5.Bilmece Oyunu</h7></p></b>
