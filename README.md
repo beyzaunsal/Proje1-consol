@@ -21,7 +21,7 @@ Hesaplamak istediğiniz dairenin çapını girerek çevresini ve alanını hesap
 Sorulara düşündüğünüz cevabı verdiğiniz taktirde doğru cevabı söyler, yeni soruyu karşınıza getirir.<b><p><h8>6.Cismin Düşme Süresi</h8</p></b>
 <p><img src="cisim.png" width="650" height="100" alt="Örnek Resim"/></p>
 Cismin düşme süresine göre veya bırakıldığı yüksekliğe göre düşme hızını hesaplar.
-<b><p><h9>7.Boy Kilo Endeksi</h9</p></b>
+<hr /><b><p><h9>7.Boy Kilo Endeksi</h9</p></b>
 <p><img src="boykilo.png" width="300" height="100" alt="Örnek Resim"/></p>
 Kilonuzu kg cinsinden ve  boyunuzu cm cinsinden sırasıyla girerek endeksinizi hesaplayabilirsiniz.(bki<= 20 ise İdeal kilonun altındasınız, 20< bki <= 25 ise Kilonuz ideal, 25< bki <= 30 ise İdeal kilonun üstündesiniz, 30> ise İdeal kilonuzun çok üstündesiniz.)
 <b><p><h10>8.Yaş Hesabı</h10></p></b>
