@@ -1,0 +1,13 @@
+print("notunuzu hesaplayalım")
+print("...........\n")
+dersnotu=int(input("ders notunu giriniz:"))
+if dersnotu >100 or dersnotu <0 :
+    print(" girilen not 0-100 arasında olmalıdır.")
+else:
+    if dersnotu <50 and dersnotu >0 :
+        print("kaldın")
+    if dersnotu >84 and dersnotu>100  :
+        print(" aferin, 5 aldın")
+    if dersnotu >49 and dersnotu==100:
+        print("aslansın kaplansın büyüksün")
+        
