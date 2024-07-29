@@ -8,16 +8,16 @@ print("║  Seçimini yap:   ║")
 print("╚"+"══════════════════"+"╝")
 soru=int(input("Seçimi yap:")) 
 
-def Toplama(a,b):
+def toplama(a,b):
      return a+b
 
-def Çıkarm (a-b):
+def çıkarm (a-b):
      return a-b 
 
-def Çarpma(a*b):
+def çarpma(a*b):
      retun a*b
 
-def Bölme(a/b):
+def bölme(a/b):
       return a/b
 
 

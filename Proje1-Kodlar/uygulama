@@ -1,2 +1,2 @@
 import hesaplama.hesapmakinesi
-print(hesapmakinesi.Toplama(8,9)
+print(hesapmakinesi.toplama(8,9)
