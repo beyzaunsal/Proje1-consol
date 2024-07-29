@@ -7,7 +7,19 @@ print("║  4- Bölme        ║")
 print("║  Seçimini yap:   ║")
 print("╚"+"══════════════════"+"╝")
 soru=int(input("Seçimi yap:")) 
-input()
+
+def Toplama(a,b):
+     return a+b
+
+def Çıkarm (a-b):
+     return a-b 
+
+def Çarpma(a*b):
+     retun a*b
+
+def Bölme(a/b):
+      return a/b
+
 
 
 
