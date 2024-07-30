@@ -1,5 +1,7 @@
-for a in range(1,11):
-    for b in range(1,11):
-        print(a,"x",b,"=",a*b)
-    print()
-input()    
+n=int(input("Bir sayı giriniz: "))
+formül = 0
+
+for i in range(1, n + 1):
+  formül += 1 / i
+
+print(f"Toplam: {formül:.2f}")

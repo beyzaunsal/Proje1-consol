@@ -26,3 +26,4 @@
 
 #import hesaplama.müziktürleri as mt
 #print(mt.m_tür(soru))
+
