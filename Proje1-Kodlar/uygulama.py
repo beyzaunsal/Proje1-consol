@@ -23,3 +23,6 @@
 #import hesaplama.cisim as düşme
 #print(düşme.süre(t))
 #print(düşme.yükseklik(h))
+
+#import hesaplama.müziktürleri as mt
+#print(mt.m_tür(soru))
