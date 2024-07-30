@@ -15,7 +15,7 @@ def anamenü():
     print("║            Seçimini yap:            ║")
     print("╚"+"═════════════════════════════════════"+"╝")
     soru=input("Seçimini yap:")
-    if soru == 1 : hesaplama.hesapmakinesi
+    if soru == 1 : 
         print("Hesap Makinesini seçtiniz.")
     elif soru ==2 : 
         print("Müzik Türşeri Hakkında Bilgi Edinmek İstediniz.")
