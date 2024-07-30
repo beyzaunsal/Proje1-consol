@@ -19,3 +19,7 @@
 #import hesaplama.daire as aç
 #print(aç.alan(r))
 #print(aç.cevre(r))
+
+#import hesaplama.cisim as düşme
+#print(düşme.süre(t))
+#print(düşme.yükseklik(h))

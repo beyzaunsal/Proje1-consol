@@ -1,3 +1,4 @@
+konu="Müzik Türleri"
 print("╔"+"══════════════════════════════"+"╗")
 print("║ Müzik Türleri Hakkında Bilgi ║")
 print("║  1- Klasik Müzik             ║")
@@ -14,6 +15,9 @@ print("║  11- Latin Müziği            ║")
 print("║        Seçimini yap:         ║")
 print("╚"+"══════════════════════════════"+"╝")
 soru=int(input("Seçimini yap:")) 
+
+def m_tür("soru"):
+    
 if soru==1 :
     print("Klasik müzik bestelerinde keman, viyola, çello, kontrbas, piyano, klavsen, obua, kormen, zil ve üçgen gibi enstrümanlar kullanılıyor. Klasik müzik besteleri, yalnızca enstrümantal konçerto ve senfonilerden oluşmuyor. Opera ve operetlerde söylenen aryalar da klasik müzik eseri olarak kabul ediliyor.")
 elif soru==2 :
