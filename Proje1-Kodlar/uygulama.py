@@ -10,4 +10,12 @@
 #import hesaplama.faiz as faiz
 #print(faiz.Birikimlifaiz(n,faiz,para))
 
-     
+#import hesaplama.yaş as yil
+#print(yil.yaş(yıl))   
+
+#import hesaplama.notortalması as nort
+#print(nort.notlar(b_yazılı,i_yazılı,p_ödev))
+
+#import hesaplama.daire as aç
+#print(aç.alan(r))
+#print(aç.cevre(r))
