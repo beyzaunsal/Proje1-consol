@@ -38,6 +38,5 @@ def anamenü():
         print ("Ritmik saymayı seçtiniz.")
     elif soru==11 :
         print("Çıkış yapmak istediniz.")
-    else: 
-        anamenü()
+    else:  anamenü()
        

@@ -27,3 +27,6 @@
 #import hesaplama.müziktürleri as mt
 #print(mt.m_tür(soru))
 
+import hesaplama.anamenü as amenü
+print(amenü.anamenü())
+    
