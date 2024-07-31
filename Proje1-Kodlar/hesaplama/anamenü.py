@@ -19,7 +19,7 @@ def anamenü():
     if soru == 1 : 
         print("Hesap Makinesini seçtiniz.")
     elif soru ==2 : 
-        print("Müzik Türşeri Hakkında Bilgi Edinmek İstediniz.")
+        print("Müzik türleri hakkında bilgi edinmek istediniz.")
     elif soru ==3 :
         print("Not ortalamasını seçtiniz.") 
     elif soru ==4 :
@@ -31,12 +31,13 @@ def anamenü():
     elif soru==7 :
         print("Boy kilo endeksini seçtiniz.")
     elif soru==8 :
-        print("Yaş hesabını seçtiniz.")
+        print("Yaş hesabı seçtiniz.")
     elif soru==9 :
         print("Faiz getirisini seçtiniz.")
     elif soru==10 :
         print ("Ritmik saymayı seçtiniz.")
     elif soru==11 :
         print("Çıkış yapmak istediniz.")
-    else:  anamenü()
+    else: 
+        anamenü()
        

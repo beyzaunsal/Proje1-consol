@@ -1,5 +1,5 @@
-konu= "Hesap Makinesi"
-print("╔"+"══════════════════"+"╗")
+def hesapmakinesi():
+     print("╔"+"══════════════════"+"╗")
 print("║ Hesap Makinesi   ║")
 print("║  1- Toplama      ║")
 print("║  2- Çıkarma      ║")

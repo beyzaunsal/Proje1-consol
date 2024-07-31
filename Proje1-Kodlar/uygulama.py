@@ -1,3 +1,6 @@
+#import hesaplama.anamenü as amenü
+#print(amenü.anamenü())
+
 #import hesaplama.hesapmakinesi as hm
 #print(hm.toplama(a,b))
 #print(hm.çıkarma(a,b))
@@ -27,6 +30,10 @@
 #import hesaplama.müziktürleri as mt
 #print(mt.m_tür(soru))
 
-import hesaplama.anamenü as amenü
-print(amenü.anamenü())
+#import hesaplama.bilmece as bmc
+#print(bmc.bilmece())
+
+#import hesaplama.ritmiksayma as rsayma
+#print(rsayma.ritmiksayma())
     
+
