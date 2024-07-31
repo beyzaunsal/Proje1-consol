@@ -1,9 +1,10 @@
-yıl=int(input("Merhaba, doğum yılınız nedir?"))
+def yashesaplama():   
+      yıl=int(input("Merhaba, doğum yılınız nedir?"))
 
-def yaş(yıl):
-      return 2024-yıl
+      def yaş(yıl):
+            return 2024-yıl
 
-doğum=yaş(yıl)
+      doğum=yaş(yıl)
 
-print(f"{doğum} yaşındasınız.")
-input()
+      print(f"{doğum} yaşındasınız.")
+      input()

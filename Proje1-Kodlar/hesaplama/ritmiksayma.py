@@ -1,4 +1,4 @@
-def ritmiksayma():
+def ritmiksay():
   n=int(input("Bir sayı giriniz: "))
   formül = 0
 

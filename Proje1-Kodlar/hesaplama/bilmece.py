@@ -1,4 +1,4 @@
-def bilmece():
+def bilmeceoyun():
     soru1=input("Dışarıda sağanak yağmur altında tamamen korumasız olan bir adam var fakat saçının tek bir teli dahi ıslanmadı. Neden?")
     print("CEVAP: Adam keldi :) ")
     soru2=input("En nadir bulunan kedi türünün hangisi olduğunu biliyor musun?")
