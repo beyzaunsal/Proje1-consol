@@ -14,7 +14,8 @@ def anamenü():
     print("║  11- ÇIKIŞ                          ║")
     print("║            Seçimini yap:            ║")
     print("╚"+"═════════════════════════════════════"+"╝")
-    soru=input("Seçimini yap:")
+    soru=int(input("Seçimini yap:"))
+    print()
     if soru == 1 : 
         print("Hesap Makinesini seçtiniz.")
     elif soru ==2 : 
@@ -37,5 +38,6 @@ def anamenü():
         print ("Ritmik saymayı seçtiniz.")
     elif soru==11 :
         print("Çıkış yapmak istediniz.")
-    else: anamenü()
+    else: 
+        anamenü()
        
