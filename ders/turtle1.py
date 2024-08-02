@@ -41,7 +41,7 @@ print(f"tt değişkeni{type(tt)}türünde ve değeri {tt}")
 print(tt*2)
 tt = str(tt)
 print(tt*2)
-'''
+
 a=5
 a=6
 def topla():
@@ -55,3 +55,4 @@ def carp():
 topla()   
 print("dışta:",a) 
 carp()
+'''
