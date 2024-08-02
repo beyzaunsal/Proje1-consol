@@ -6,3 +6,9 @@ def ritmiksay():
     formül += 1 / i
 
   print(f"Toplam: {formül:.2f}")
+
+
+
+öğrenciler="ali","can","han","ece"
+print(öğrenciler)
+

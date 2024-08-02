@@ -33,7 +33,6 @@ def anamenü():
     elif soru ==2 : 
         print("Müzik türleri hakkında bilgi edinmek istediniz.")
         hesaplama.müziktürleri.müziktür()
-
     elif soru ==3 :
         print("Not ortalamasını seçtiniz.") 
         hesaplama.notortalması.ders()
