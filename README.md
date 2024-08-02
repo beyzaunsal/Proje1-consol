@@ -30,5 +30,5 @@ Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<hr /><b><p><
 <p><img src="Resimler/faiz.png" width="350" height="100" alt="Örnek Resim"/></p>
 Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hesaplar.
 <hr /><b><p><h7>10.Ritmik Sayma</h7></p></b>
-Bir sayı
+
 
