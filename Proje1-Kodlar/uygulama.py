@@ -63,3 +63,4 @@ def anamenü():
         anamenü()
        
 anamenü()
+input()
