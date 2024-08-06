@@ -31,7 +31,7 @@ Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<hr /><b><p><
 Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hesaplar.
 <hr /><b><p><h7>10.Oyunlar</h7></p></b>
 <p><img src="Resimler/oyunlar.png" width="270" height="150" alt="Örnek Resim"/></p>
-Oyunları seçerseniz size seçmeniz için 3 adet farklı oyun seçeneğini sunacaktır.
+Oyunları seçereneğinde size 3 adet farklı oyun seçeneğini sunacaktır.
 
 
 
