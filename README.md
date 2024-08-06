@@ -29,6 +29,9 @@ Kilonuzu kg cinsinden ve  boyunuzu cm cinsinden sırasıyla girerek endeksinizi 
 Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<hr /><b><p><h9>9.Faiz Getirisi Hesaplama</h9</p></b>
 <p><img src="Resimler/faiz.png" width="350" height="100" alt="Örnek Resim"/></p>
 Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hesaplar.
-<hr /><b><p><h7>10.Ritmik Sayma</h7></p></b>
+<hr /><b><p><h7>10.Oyunlar</h7></p></b>
+<p><img src="Resimler/oyunlar.png" width="350" height="100" alt="Örnek Resim"/></p>
+Oyunları seçerseniz size seçmeniz için 3 adet farklı oyun seçeneğini sunacaktır.
+ 
 
 
