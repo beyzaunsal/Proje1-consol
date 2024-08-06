@@ -40,5 +40,5 @@ Yılan verilen yemi yemek ile görevlidir. Her yediği yem için ise boyu uzamak
 Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu kadar hata yapma hakkınız vardır.
 İyi eğlenceler dilerim.
 <hr /><b><p><h7>3-Taş Kağıt Makas</h7></p></b>
-<p><img src="Resimler/taşkm.png" width="350" height="200" alt="Örnek Resim"/></p>
+<p><img src="Resimler/taşkm.png" width="400" height="250" alt="Örnek Resim"/></p>
 Oyunun görüntüsü yukarıdadır.
