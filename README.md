@@ -33,6 +33,6 @@ Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hes
 <p><img src="Resimler/oyunlar.png" width="250" height="150" alt="Örnek Resim"/></p>
 Oyunları seçereneğinde size 3 adet farklı oyun seçeneğini sunacaktır.
 <hr /><b><p><h7>2-Adam Asmaca</h7></p></b>
-<p><img src="Resimler/adamsa.png" width="300" height="100" alt="Örnek Resim"/></p>
+<p><img src="Resimler/adamsa.png" width="300" height="500" alt="Örnek Resim"/></p>
 
 
