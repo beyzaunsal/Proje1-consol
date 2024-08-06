@@ -40,6 +40,7 @@ Yılan verilen yemi yemek ile görevlidir. Her yediği yem için ise boyu uzamak
 <p><img src="Resimler/adamsa.png" width="300" height="400" alt="Örnek Resim"/></p>
 Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu kadar hata yapma hakkınız vardır.
 <br>İyi eğlenceler dilerim.
-<hr /><b><p><h7>3-Taş Kağıt Makas</h7></p></b>
+<i><hr /><b><p><h7>3-Taş Kağıt Makas</h7></p></b></i>
 <p><img src="Resimler/taşkm.png" width="400" height="250" alt="Örnek Resim"/></p>
-Oyunun görüntüsü yukarıdadır.iyi eğlenceler dilerim.
+Oyunun görüntüsü yukarıdadır.
+<br>İyi eğlenceler dilerim.
