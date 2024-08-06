@@ -34,8 +34,10 @@ Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hes
 Oyunları seçereneğinde size 3 adet farklı oyun seçeneğini sunacaktır.
 <hr /><b><p><h7>1-Yılan Oyunu</h7></p></b>
 <p><img src="Resimler/yilan.png" width="300" height="300" alt="Örnek Resim"/></p>
-Yılan verilen yemi yemek ile görevlidir. Her yediği yem için ise boyu uzamaktadır.
+Yılan verilen yemi yemek ile görevlidir. Her yediği yem için ise boyu uzamaktadır.Yılan Oyunu ekran görüntüsü yukarıdadır.
 <hr /><b><p><h7>2-Adam Asmaca</h7></p></b>
 <p><img src="Resimler/adamsa.png" width="300" height="400" alt="Örnek Resim"/></p>
 Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu kadar hata yapma hakkınız vardır.
 İyi eğlenceler dilerim.
+<hr /><b><p><h7>3-Taş Kağıt Makas</h7></p></b>
+<p><img src="Resimler/tkm.png" width="300" height="400" alt="Örnek Resim"/></p>
