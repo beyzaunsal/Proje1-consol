@@ -30,7 +30,7 @@ Doğum yılınıza göre şuan kaç yaşında olduğunuzu hesaplar.<hr /><b><p><
 <p><img src="Resimler/faiz.png" width="350" height="100" alt="Örnek Resim"/></p>
 Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hesaplar.
 <hr /><b><p><h7>10.Oyunlar</h7></p></b>
-<p><img src="Resimler/oyunlar.png" width="270" height="150" alt="Örnek Resim"/></p>
+<p><img src="Resimler/oyunlar.png" width="250" height="150" alt="Örnek Resim"/></p>
 Oyunları seçereneğinde size 3 adet farklı oyun seçeneğini sunacaktır.
 
 
