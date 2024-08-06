@@ -34,5 +34,5 @@ Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hes
 Oyunları seçereneğinde size 3 adet farklı oyun seçeneğini sunacaktır.
 <hr /><b><p><h7>2-Adam Asmaca</h7></p></b>
 <p><img src="Resimler/adamsa.png" width="300" height="400" alt="Örnek Resim"/></p>
-Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu kadar hata yapma hakkınız vardır.İyi eğlenceler dilerim.
-
+Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu kadar hata yapma hakkınız vardır.
+İyi eğlenceler dilerim.
