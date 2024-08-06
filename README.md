@@ -41,4 +41,4 @@ Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu
 İyi eğlenceler dilerim.
 <hr /><b><p><h7>3-Taş Kağıt Makas</h7></p></b>
 <p><img src="Resimler/taşkm.png" width="400" height="250" alt="Örnek Resim"/></p>
-Oyunun görüntüsü yukarıdadır.
+Oyunun görüntüsü yukarıdadır.iyi eğlenceler dilerim.
