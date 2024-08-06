@@ -7,6 +7,7 @@ import hesaplama.boykiloendeks
 import hesaplama.cisim
 import hesaplama.notortalması
 import hesaplama.daire
+import hesaplama.oyun
 import hesaplama.hesapmakinesi
 import hesaplama.notortalması
 def anamenü():
@@ -21,7 +22,7 @@ def anamenü():
     print("║  7- BOY KİLO ENDEKSİ                ║")
     print("║  8- YAŞ HESABI                      ║")
     print("║  9- FAİZ GETİRİSİ                   ║")
-    print("║  10- RİTMİK SAYMA                   ║")
+    print("║  10- OYUNLAR                        ║")
     print("║  11- ÇIKIŞ                          ║")
     print("║            Seçimini yap:            ║")
     print("╚"+"═════════════════════════════════════"+"╝")
@@ -55,8 +56,8 @@ def anamenü():
         print("Faiz getirisini seçtiniz.")
         hesaplama.faiz.faizhes()
     elif soru==10 :
-        print ("Ritmik saymayı seçtiniz.")
-        hesaplama.ritmiksayma.ritmiksay()
+        print ("Yılan oyunu seçtiniz. İyi eğlenceler :) ")
+        hesaplama.oyun.yilanoyunu()
     elif soru==11 :
         print("Çıkış yapmak istediniz.")
     else: 
