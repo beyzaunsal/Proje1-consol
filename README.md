@@ -32,6 +32,8 @@ Yatıracağınız paranın dönem sonundaki getirisini faiz ve süreye göre hes
 <hr /><b><p><h7>10.Oyunlar</h7></p></b>
 <p><img src="Resimler/oyunlar.png" width="250" height="150" alt="Örnek Resim"/></p>
 Oyunları seçereneğinde size 3 adet farklı oyun seçeneğini sunacaktır.
+<hr /><b><p><h7>1-Yılan Oyunu</h7></p></b>
+<p><img src="Resimler/YılanOyunu.png.png" width="200" height="200" alt="Örnek Resim"/></p>
 <hr /><b><p><h7>2-Adam Asmaca</h7></p></b>
 <p><img src="Resimler/adamsa.png" width="300" height="400" alt="Örnek Resim"/></p>
 Bir harf seçerek belirlenen kelime bulmaya çalışılır. Canınızın olduğu kadar hata yapma hakkınız vardır.
