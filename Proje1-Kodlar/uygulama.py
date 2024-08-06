@@ -1,6 +1,5 @@
 import hesaplama.bilmece
 import hesaplama.müziktürleri
-import hesaplama.ritmiksayma
 import hesaplama.yaş
 import hesaplama.faiz
 import hesaplama.boykiloendeks
@@ -56,12 +55,12 @@ def anamenü():
         print("Faiz getirisini seçtiniz.")
         hesaplama.faiz.faizhes()
     elif soru==10 :
-        print ("Yılan oyunu seçtiniz. İyi eğlenceler :) ")
-        hesaplama.oyun.yilanoyunu()
+        print ("İyi eğlenceler :) ")
+        hesaplama.oyun.oyunlar()
     elif soru==11 :
         print("Çıkış yapmak istediniz.")
     else: 
         anamenü()
-       
+
+input()       
 anamenü()
-input()
