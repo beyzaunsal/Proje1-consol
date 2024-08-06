@@ -161,7 +161,7 @@ def oyunlar():
 def adamas():
 
         try:
-            from termcolor import cprint
+         from termcolor import cprint
         except ImportError:
             def cprint(*args, **kwargs):
                 print(*args)
@@ -239,7 +239,7 @@ def adamas():
             veri["skorlar"] = veri["skorlar"][:5]
             ayar_yaz(veri)
         
-        
+    
         def oyun_sonucu():
             """Oyun bittiğinde kazanıp kazanamadığımızı ekrana yazar."""
             if can > 0:
