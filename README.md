@@ -2,7 +2,7 @@
 ## Beyza ÜNSAL
 <img src="Resimler/logo.png" width="250" height="100" alt="Örnek Resim"/>
 <hr /><h3>1.Proje</h3>
-<img src="Resimler/anamenü.png" width="300" height="300" alt="Örnek Resim"/>
+<img src="Resimler/güncelanameü.png" width="300" height="300" alt="Örnek Resim"/>
 Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.
 <hr /><td><h4>1.Hesap Makinesi</h4></td>
 <img src="Resimler/HESAP MAKİNESİ.png" width="250" height="250" alt="Örnek Resim"/>

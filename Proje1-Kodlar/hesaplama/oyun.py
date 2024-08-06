@@ -374,4 +374,4 @@ elif soru==2 :
     print(adamas())
 else:
     print(play_game())
-    quit
+  
