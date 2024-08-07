@@ -61,6 +61,5 @@ def anamenü():
         print("Çıkış yapmak istediniz.")
     else: 
         anamenü()
-
-      
+    
 anamenü()
