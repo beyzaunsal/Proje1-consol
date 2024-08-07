@@ -1,4 +1,4 @@
-def oyunlar():
+def oyunmenü():
     print("╔"+"══════════════════════"+"╗")
     print("║       OYUNLAR        ║")
     print("║  1- Yılan Oyunu      ║")
@@ -8,10 +8,17 @@ def oyunlar():
     print("╚"+"══════════════════════"+"╝")
 
     soru = int(input("Seçimini yap: "))
+ 
+    if soru==1 : 
+        yilanoyunu()
+    elif soru==2 :
+        adamas()
+    else:
+        play_game()
 
-    def yilanoyunu():  
+def yilanoyunu():  
     
-     import random
+    import random
     import turtle
     import time
     delay = 0.15
@@ -366,12 +373,3 @@ def play_game():
                 break
 
     # Oyunu oynat
-play_game()
-
-if soru==1 : 
-    print(yilanoyunu())
-elif soru==2 :
-    print(adamas())
-else:
-    print(play_game())
-  

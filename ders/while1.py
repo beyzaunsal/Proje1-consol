@@ -17,3 +17,15 @@
 # kişi=" "
 # while meyve=input("Adınızı giriniz:")
 #    if  kişi !="": liste.
+
+
+# i = 1 #6yı yazmaz.
+# while i < 6:
+
+#   print(i)
+#   i += 1
+
+# else: 
+#     print("i, 6 dan küçük değil.")
+
+

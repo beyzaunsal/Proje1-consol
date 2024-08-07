@@ -56,11 +56,11 @@ def anamenü():
         hesaplama.faiz.faizhes()
     elif soru==10 :
         print ("İyi eğlenceler :) ")
-        hesaplama.oyun.oyunlar()
+        hesaplama.oyun.oyunmenü()
     elif soru==11 :
         print("Çıkış yapmak istediniz.")
     else: 
         anamenü()
-        
-         
+
+ 
 anamenü()
