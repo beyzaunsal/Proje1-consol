@@ -9,15 +9,32 @@ class Ogrenci: # referans, model
     adi = "Mustafa"
     soyadi = "ALP"
     numarasi = "547"
+    def __init__(self,xx,yy):
+        self.adi = xx
+        self.no = yy
 
 print("Öğrenci Bilgisi: ",Ogrenci.adi, Ogrenci.soyadi)
 
-def_init_(self)
-ogrenci1= Ogrenci
-print(ogrenci1.adi)
-ogrenci2= Ogrenci 
-print(ogrenci2.adi)
+ogrenci1 = Ogrenci()
+print("o1:",ogrenci1.adi)
+ogrenci1.bilgi() 
+ogrenci2 = Ogrenci()
+print("o2:",ogrenci2.adi)
 
-ogrenci1.adi ="Ali"
-print(ogrenci1.adi)
-ogrenci2.adi ="Yasin"
+# class Ogrenci():
+#     AdSoyad = "Boş"
+#     NotOrtalamasi = ""
+#     DisiplinCezasi = 100
+
+#     def __init__(self,ad,no):
+#         self.AdSoyad = ad
+#         self.Numara = no 
+        
+#     def bilgi(self):
+#         print ("Metod ile: Adı Soyadı:",self.AdSoyad,", Numarası:",self.Numara)
+
+# print("Sınıftaki adSoyad değeri:", Ogrenci.AdSoyad)
+# ogrenci1 = Ogrenci()
+# ogrenci1.bilgi() 
+# ogrenci2 = Ogrenci()
+# ogrenci2.bilgi()
