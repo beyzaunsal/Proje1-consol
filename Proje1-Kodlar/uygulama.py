@@ -62,5 +62,5 @@ def anamenü():
     else: 
         anamenü()
 
- 
+        
 anamenü()
