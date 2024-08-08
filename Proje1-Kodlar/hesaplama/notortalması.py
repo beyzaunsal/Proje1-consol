@@ -9,4 +9,5 @@ def ders():
     ortalama=notlar(b_yazılı,i_yazılı,p_ödev)
 
     print(f"Not ortalamanız: {ortalama} dir.")
+    
     input()
