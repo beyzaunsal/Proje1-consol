@@ -29,36 +29,46 @@ def anamenü():
     print()
     if soru == 1 : 
         print("Hesap Makinesini seçtiniz.")
-        hesaplama.hesapmakinesi.hmmenü()    
+        hesaplama.hesapmakinesi.hmmenü()
+        anamenü()   
     elif soru ==2 : 
         print("Müzik türleri hakkında bilgi edinmek istediniz.")
         hesaplama.müziktürleri.müziktür()
+        anamenü()
     elif soru ==3 :
         print("Not ortalamasını seçtiniz.") 
         hesaplama.notortalması.ders()
+        anamenü()
     elif soru ==4 :
         print("Dairenin çap ve alanını seçtiniz.")
         hesaplama.daire.çevrealan()
+        anamenü()
     elif soru==5 :
         print("Bilmece oyununu seçtiniz.") 
         hesaplama.bilmece.bilmeceoyun()
+        anamenü()
     elif soru==6 :
         print("Cismin düşme süresini seçtiniz.")
         hesaplama.cisim.cisimyüksekliksüre()
+        anamenü()
     elif soru==7 :
         print("Boy kilo endeksini seçtiniz.")
         hesaplama.boykiloendeks.endeks()
+        anamenü()
     elif soru==8 :
         print("Yaş hesabı seçtiniz.")
         hesaplama.yaş.yashesaplama()
+        anamenü()
     elif soru==9 :
         print("Faiz getirisini seçtiniz.")
         hesaplama.faiz.faizhes()
+        anamenü()
     elif soru==10 :
         print ("İyi eğlenceler :) ")
         hesaplama.oyun.oyunmenü()
+        anamenü()
     elif soru==11 :
-        print("Çıkış yapmak istediniz.")
+        print("Çıkış yaptınız.")
     else: 
         anamenü()
 
