@@ -45,7 +45,7 @@ Yılan Oyunu, oyuncunun bir yılanı yönlendirdiği klasik bir bilgisayar oyunu
 Adam Asmaca, bir kelime tahmin etme oyunudur. Bilgisayar sizin için gizli bir kelime seçer ve bu kelimenin harf sayısı kadar boşluk bırakır. Diğer oyuncu ise, kelimeyi tahmin etmeye çalışır ve her doğru tahminle ilgili harf boşluklara yerleştirilir. 
 <br>İyi eğlenceler dilerim.
 <i><b><p><h7>3-Taş Kağıt Makas</h7></p></b></i>
-<p><img src="Resimler/taşkm.png" width="400" height="250" alt="Örnek Resim"/></p>
+<p><img src="Resimler/taşkm.png" width="400" height="300" alt="Örnek Resim"/></p>
 Taş-Kağıt-Makas, üç seçeneği olan bir şansa dayalı oyundur. Her oyuncu sırayla taş, kağıt veya makası seçer. Seçimlerin kuralları şunlardır:
 Taş, makası yener.
 Makas, kağıdı yener.
