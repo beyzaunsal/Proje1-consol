@@ -1,9 +1,9 @@
 # Konsol Uygulaması
 ## Beyza ÜNSAL
 <img src="Resimler/logo.png" width="250" height="100" alt="Örnek Resim"/>
-<hr /><h3>1.Konsol Uygulaması Proje Tanıtımı</h3>
+<hr /><h3>Konsol Uygulaması Proje Tanıtımı</h3>
 Ana menüde yer alan seçeneklerden yapmak istediğiniz uygulamayı seçerek konsolu çalıştırabilirsiniz. Örneğin, ana menüden hesap makinesini seçmek için 1 numaralı seçeneği işaretleyin. Ardından, yapmak istediğiniz işlemi ve gerekli sayıları girin; Bu adımları takip ederek, istediğiniz sonuca kolayca ulaşabilirsiniz. Aynı şekilde diğer seçenekler için de istenilen bilgileri girdiğiniz taktirde hedefinize kolayca ulaşabilirsiniz.
-<hr /><h3>1.Ana Menü</h3>
+<hr /><h3>Vektörel 1.Proje Ana Menü</h3>
 <img src="Resimler/güncelanameü.png" width="300" height="300" alt="Örnek Resim"/>
 Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.
 <hr /><td><h4>1.Hesap Makinesi</h4></td>
