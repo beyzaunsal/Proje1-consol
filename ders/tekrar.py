@@ -1,1 +1,1 @@
-sdv
+print("hello")
