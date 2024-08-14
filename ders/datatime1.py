@@ -13,6 +13,6 @@
 # import datetime 
 # print("şimdi:", datetime.datetime.now())
 
-# for a in range(100000):
-#     print("şimdi=",datetime.now())
+for a in range(100000):
+    print("şimdi=",datetime.now())
 
